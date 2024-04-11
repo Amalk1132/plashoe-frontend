@@ -1,0 +1,17 @@
+.cart-page{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1300px;
+   
+    /* background-color: aqua; */
+    
+   
+}
+   
+  
+.shoe-cart{
+    margin: 10px;
+    border: 5px solid black;
+    height: 300px;
+    
+}

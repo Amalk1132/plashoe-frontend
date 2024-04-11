@@ -1,0 +1,22 @@
+.ad-login{
+    width: 400px;
+    height: 300px;
+    background-color: rgb(0, 166, 255);
+    border: 5px solid black;
+    border-radius: 40px;
+}
+.main-admin h1{
+    color: rgb(243, 7, 7);
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.admin-log{
+    background-color: rgb(220, 157, 10);
+    border-radius: 5px;
+    width: 100px;
+
+}
+.admin-log:hover{
+    background-color: red;
+    color: white;
+}

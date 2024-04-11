@@ -1,0 +1,43 @@
+.collection-page{
+    width: 1300px;
+  
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+     .shoe-colect{
+      
+      
+       margin-bottom: 20px;
+    
+        
+    }
+    .shoe-colect img{
+        width: 350px; 
+        
+       
+    }
+    .shoe-colect img:hover{
+        transform: scale(1.08);
+    }
+   
+    .shoe-btnclt{
+        width: 100%;
+        height: 35px;
+       
+    
+    } 
+    .shoe-btnclt:hover{
+        background-color: cornflowerblue;
+
+    }
+    .shoe-btnclt1{
+        width: 100%;
+        height: 35px;
+     
+
+    }
+   .shoe-btnclt1:hover{
+    background-color: grey;
+   }

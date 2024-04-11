@@ -1,0 +1,30 @@
+.auth-form-container{
+    width: 400px;
+    height: 500px;
+    background-color: rgb(198, 35, 48);
+    margin-top: 80px;
+}
+/* .auth-form-container:hover{
+    background-color: rgb(204, 88, 50);
+
+} */
+.link-btn{
+    text-decoration: none;
+    border-radius: 5px;
+}
+.link-btn:hover{
+    background-color: white;
+}
+.admin-1{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    border-radius: 5px;
+    height: 40px;
+    
+}
+.admin-1:hover{
+    background-color: darkcyan;
+    color: black;
+
+}

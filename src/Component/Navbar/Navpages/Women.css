@@ -1,0 +1,22 @@
+
+.women-page{
+
+    width: 1300px;
+    /* height: 1150px; */
+    /* background-color: rgb(232, 14, 14); */
+   margin-right: 0;
+   
+  
+}
+.women-page h1{
+    color:#6e7051;
+    text-align: start;
+margin-top: 40px;
+margin-left: 50px;
+font-size: 70px;
+}
+.women-page h1:hover{
+    color: black;
+
+}
+

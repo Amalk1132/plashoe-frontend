@@ -1,0 +1,24 @@
+.pay-section{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(10, 0, 0);
+}
+.pay-section h1{
+    color: white;
+
+}
+.pay-upi{
+    width: 100%;
+    height: 25%;
+    /* background-color: rgb(237, 5, 5); */
+}
+.pay-debit{
+    width: 100%;
+    height: 25%;
+    /* background-color: rgb(243, 9, 9); */
+}
+.pay-net{
+    width: 100%;
+    height: 25%;
+    /* background-color: rgb(252, 6, 6); */
+}

@@ -1,0 +1,20 @@
+
+.lookbook-page{
+   
+
+        width: 1300px;
+        height: 1000px;
+        /* background-color: rgb(14, 232, 94); */
+       margin-right: 0;
+       
+      
+    
+}
+.lookbook-page img{
+        height: 800px;
+        width: 100%;
+}
+.lookbook-page h1{
+        font-size: 80px;
+        font-weight:initial;
+}

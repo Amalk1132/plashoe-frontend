@@ -1,0 +1,45 @@
+.prod-main{
+    width: 100%;
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.prod-child{
+    width: 400px;
+    /* background-color: blue; */
+    margin-bottom: 30px;
+}
+.prod-child img{
+    width: 350px;
+
+   
+
+}
+.prod-child img:hover{
+    transform: scale(1.08);
+
+}
+.edit-btn{
+    width: 80px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+.edit-delet{
+    width: 80px;
+    background-color: rgb(251, 38, 10);
+    color: white;
+    border-radius: 5px;
+
+}
+.edit-btn:hover{
+    background-color: aqua;
+    color: black;
+
+}
+.edit-delet:hover{
+    background-color: violet;
+    color: black;
+
+}
